@@ -1,3 +1,5 @@
-# cine_movil_app
+# Taller en Clase
 
-A new Flutter project.
+## Integrantes
+ - Jeremy Arévalo
+ - Joseph Bonilla
